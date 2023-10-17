@@ -282,6 +282,7 @@ h2 > span {
   font-style: normal;
   font-weight: 600;
   padding: 5px 0;
+  white-space: nowrap;
 }
 .product_price {
   font-weight: 700 !important;
